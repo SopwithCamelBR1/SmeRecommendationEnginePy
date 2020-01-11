@@ -4,6 +4,9 @@
 # Notes
 **/Notes
 
+# AWS RDS Connection scripts
+**/RDS
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
